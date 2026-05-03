@@ -6,4 +6,5 @@ Python installed
 being compentent enough to double click
 
 
-<img width="1692" height="688" alt="image" src="https://github.com/user-attachments/assets/a72775bc-177a-49c6-a14a-cbe1f0d99b55" />
+<img width="1902" height="1055" alt="image" src="https://github.com/user-attachments/assets/c515a94a-cd47-4cb8-87cb-3a18cead0cd6" />
+
